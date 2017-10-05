@@ -1,0 +1,15 @@
+{
+    "name": "ctala/jugando-khipu",
+    "type": "project",
+    "require": {
+        "khipu/khipu-api-client": "^2.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cristian Tala",
+            "email": "yomismo@cristiantala.cl"
+        }
+    ],
+    "minimum-stability": "dev"
+}
